@@ -58,7 +58,7 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 - [Box Model Breakdown](http://learn.shayhowe.com/html-css/opening-the-box-model/)
 - [CSS Tricks difference between IDs and Classes](https://css-tricks.com/the-difference-between-id-and-class/)
 - [What is a CSS Reset?](http://www.cssreset.com/what-is-a-css-reset/)
-- Relaxr's [design file](design_file)
+- Relaxr's [design file](design_file.txt)
 
 
 
