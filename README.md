@@ -14,7 +14,7 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 ![Relaxr Landing Page](https://i.imgur.com/aiNUaDW.png)
 
-*Note: For a view of the full page, see the [jpg](starter_code/images/relaxr_landing.jpg) provided in the deliverable. Don't be alarmed if your font sizes don't perfectly match what you see in the jpg - trust in the design file!*
+*Note: For a view of the full page, see the [jpg](images/relaxr_landing.jpg) provided in the deliverable. Don't be alarmed if your font sizes don't perfectly match what you see in the jpg - trust in the design file!*
 
 <br>
 
