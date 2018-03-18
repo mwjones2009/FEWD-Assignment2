@@ -51,10 +51,10 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 ### Submission
 
-1. Download the zip file for this repository
+1. Fork this assignment to your personal Github.com account
 2. Complete the assignment
-3. Zip up all the files into one zip file and rename the zip to include your name (e.g. EricMasiello_Assignment2.zip, ErikaLewis_Assignment2.zip)
-4. Submit it to [Dropbox](https://www.dropbox.com/request/bLQSdmgclD7O4uaWdSBw)
+3. Commit and push (sync) everything to your fork
+4. Create a pull request
 
 ### Evaluation
 
