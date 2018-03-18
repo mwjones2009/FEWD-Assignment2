@@ -27,7 +27,7 @@ body {
   color: #000;
   font-size: 12px;
   line-height: 1.4;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background: url(../images/header_bg.jpg) no-repeat center top rgb(134, 141, 157);
   background-size: cover;
 }
@@ -44,10 +44,42 @@ body {
   height: 500px;
 }
 
-header {}
-
-footer {}
+header {
+  color: #fff;
+  text-align: center;
+  padding: 40px 20px;
+}
 
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+h1 {
+  font-size: 24px;
+  font-weight: 800;
+  text-align: left;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.cta {
+  font-weight: 800;
+  font-size: 14px;
+  border-radius: 5px;
+  background-color: #f9e42e;
+  display: inline-block;
+  padding: 10px 30px;
+  text-decoration: none;
+  color: #033048;
+}
+
+.cta:hover {
+  background-color: #ffe825;
+}
+
+.cta:active {
+  background-color: #eeda2f;
+}
