@@ -18,7 +18,7 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 ### Real-World Applications
 
 
-- Build a website from a [design file](design_file.txt)
+- Build a website from a [design file](design_file.txt) (**Note** you will not be using all the styles documented in this homework assignment)
 - Integrate advanced CSS properties
 - Use HTML5 structural elements
 - Use CSS Resets to "normalize" the rendering of your page across different browsers
