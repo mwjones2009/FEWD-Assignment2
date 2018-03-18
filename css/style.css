@@ -54,15 +54,17 @@ header {
 /* ADDITIONAL STYLES
 /*******************************************/
 
-h1 {
+.title {
   font-size: 24px;
   font-weight: 800;
   text-align: left;
 }
 
-h2 {
+.tagline {
   font-size: 24px;
   font-weight: 600;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .cta {
