@@ -30,11 +30,11 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 ### Technical Requirements
 
-- Use HTML5 structural elements (nav, header, footer)
-- Use a CSS Reset file in addition to your style.css file to style the page
-- Use IDs and Classes to to select and style elements on the page
+- Use at least 1 HTML5 structural element (e.g. nav, header, footer)
+- Use a CSS Normalize or Reset file in addition to your style.css file to style the page
+- Use classes to to select and style elements on the page
 - Style your text with the Google Fonts provided by your style guide
-- Follow naming conventions, maintain consistency across .html and .css files and use best practices for naming IDs and Classes
+- Follow naming conventions, maintain consistency across .html and .css files and use best practices for naming classes
 - Indent nested elements to increase your code's readability
 
 ---
@@ -44,12 +44,20 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 - Starter code can be found inside of the "starter_code" folder for this assignment.
 - [Box Model explanation from Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/box_model)
 - [Box Model Breakdown](http://learn.shayhowe.com/html-css/opening-the-box-model/)
-- [CSS Tricks difference between IDs and Classes](https://css-tricks.com/the-difference-between-id-and-class/)
 - [What is a CSS Reset?](http://www.cssreset.com/what-is-a-css-reset/)
 - Relaxr's [design file](design_file.txt)
 
 ---
 
-### Evaluation / Submission
+### Submission
 
-Students will create a new repository on GitHub called "homework-landingpage" and push their code to it when they are ready to submit. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). Bonus sections are completely optional. The maximum possible score on this assignment is 12/12.
+1. Download the zip file for this repository
+2. Complete the assignment
+3. Zip up all the files into one zip file and rename the zip to include your name (e.g. EricMasiello_Assignment2.zip, ErikaLewis_Assignment2.zip)
+4. Submit it to [Dropbox](https://www.dropbox.com/request/bLQSdmgclD7O4uaWdSBw)
+
+### Evaluation
+
+See [rubric](rubric.md)
+
+Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). Bonus sections are completely optional. The maximum possible score on this assignment is 12/12.
