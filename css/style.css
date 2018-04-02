@@ -1,7 +1,7 @@
 /*
 Project Name: Blank Template
-Client: Your Client
-Author: Your Name
+Client: Relaxr
+Author: Michael Jones
 Developer @GA in NYC
 */
 
@@ -42,12 +42,80 @@ body {
   width: 100%;
   margin: auto;
   height: 500px;
+  font-weight: 800px;
+  font-size: 24px;
+  color: white;
 }
 
-header {}
+h2 {
+  text-align: center;
+}
 
-footer {}
+header {
+}
+
+footer {
+  color: #f9e42e;
+  text-align: center;
+  font-size: 24px;
+  background-color: #121212;
+}
 
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+.quote{
+  background-image:url("testimonial_bg.jpg");
+  background-attachment: fixed;
+
+}
+.benefits {
+  background: #f0efef;
+  font-weight: 300px;
+  font-size: 20px;
+  font-style:normal;
+  
+}
+
+#tap {
+  color: black;
+}
+
+.click {
+  background: yellow;
+  color: #033048;
+}
+
+.push {
+  text-align: center;
+  font-weight: 800px;
+  font-size: 24px;
+}
+
+.happy {
+  color: white;
+  font-weight: 600px;
+  text-align: center;
+  font-style: italic;
+  font-size: 18px;
+}
+
+.pop {
+  background: #033048;
+  color: white;
+  font-weight: 800px;
+  font-size: 20px;
+  border: 2px black solid;
+}
+
+.joke {
+  background-color: #f9e42e;
+  
+}
+
+.done {
+  text-align: center;
+  font-size: 9px;
+  color: white;
+}
