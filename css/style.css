@@ -65,8 +65,11 @@ footer {
 /* ADDITIONAL STYLES
 /*******************************************/
 
+a:{
+  
+}
 .quote{
-  background-image:url("testimonial_bg.jpg");
+  background-image:url("../testimonial_bg.jpg");
   background-attachment: fixed;
 
 }
@@ -85,6 +88,9 @@ footer {
 .click {
   background: yellow;
   color: #033048;
+  padding:20px;
+  font-weight:bold;
+border-radius:12px;
 }
 
 .push {
@@ -99,7 +105,8 @@ footer {
   font-weight: 600px;
   text-align: center;
   font-style: italic;
-  font-size: 18px;
+  font-size: 24px;
+  padding:20px;
 }
 
 .pop {
@@ -107,7 +114,8 @@ footer {
   color: white;
   font-weight: 800px;
   font-size: 20px;
-  border: 2px black solid;
+  border-radius: 12px black solid;
+  padding: 14px;
 }
 
 .joke {
